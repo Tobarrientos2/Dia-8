@@ -1,4 +1,4 @@
-<a href="/"
+<a href=""
     >
     <svg width="59" height="51" viewBox="0 0 59 51" fill="none" xmlns="http://www.w3.org/2000/svg">
         <mask id="path-1-outside-1_5_61" maskUnits="userSpaceOnUse" x="0.125" y="0.38298" width="59" height="51" fill="black">

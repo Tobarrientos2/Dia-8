@@ -10,7 +10,7 @@
             class="flex w-full"
             rel="noreferrer, noopener"
             target="_blank"
-            href="https://www.wsj.com/articles/encryption-bans-what-is-this-russia-hacking-online-privacy-security-data-signal-whatsapp-emails-protection-11675436242"
+            href=""
             ><div
                 class="skiff-card-hover skiff-border-raised col-span-1 flex aspect-[4/2] h-full min-h-[380px] w-full cursor-pointer flex-col gap-4 rounded bg-white p-4 transition-transform md:aspect-[8/9] lg:aspect-[3/4] [&amp;>*]:hover:grayscale-0"
             >
@@ -49,7 +49,7 @@
             class="flex w-full"
             rel="noreferrer, noopener"
             target="_blank"
-            href="https://www.theverge.com/2022/5/17/23075804/skiff-mail-email-privacy"
+            href=""
             ><div
                 class="skiff-card-hover skiff-border-raised col-span-1 flex aspect-[4/2] h-full min-h-[380px] w-full cursor-pointer flex-col gap-4 rounded bg-white p-4 transition-transform md:aspect-[8/9] lg:aspect-[3/4] [&amp;>*]:hover:grayscale-0"
             >
@@ -89,7 +89,7 @@
             class="flex w-full"
             rel="noreferrer, noopener"
             target="_blank"
-            href="https://www.forbes.com/sites/rashishrivastava/2022/12/16/encrypted-email-company-skiff-wants-you-to-sign-out-of-google-workspace-forever/"
+            href=""
             ><div
                 class="skiff-card-hover skiff-border-raised col-span-1 flex aspect-[4/2] h-full min-h-[380px] w-full cursor-pointer flex-col gap-4 rounded bg-white p-4 transition-transform md:aspect-[8/9] lg:aspect-[3/4] [&amp;>*]:hover:grayscale-0"
             >
@@ -129,7 +129,7 @@
             class="flex w-full"
             rel="noreferrer, noopener"
             target="_blank"
-            href="https://www.pcmag.com/reviews/skiff"
+            href=""
             ><div
                 class="skiff-card-hover skiff-border-raised col-span-1 flex aspect-[4/2] h-full min-h-[380px] w-full cursor-pointer flex-col gap-4 rounded bg-white p-4 transition-transform md:aspect-[8/9] lg:aspect-[3/4] [&amp;>*]:hover:grayscale-0"
             >

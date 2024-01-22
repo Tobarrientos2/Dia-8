@@ -17,7 +17,7 @@
             </div>
             <a
                 class="body-medium lg:body-large flex w-fit cursor-pointer items-center gap-x-1 text-orange-500 hover:opacity-50"
-                href="/download"
+                href=""
                 >Download app<svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="16"

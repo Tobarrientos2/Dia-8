@@ -52,7 +52,7 @@
                 class="md:skiff-card-hover flex h-[72px] w-fit items-center gap-2 rounded-2xl bg-gray-800 p-2 shadow-md md:hover:shadow-xl"
             >
                 <span data-state="closed" style="width: inherit;"
-                    ><a class="flex" rel="noreferrer, noopener" href="/mail"
+                    ><a class="flex" rel="noreferrer, noopener" href=""
                         ><div class="h-auto w-[56px]" data-projection-id="402">
                             <svg
                                 width="260"
@@ -104,7 +104,7 @@
                         </div></a
                     ></span
                 ><span data-state="closed" style="width: inherit;"
-                    ><a class="flex" rel="noreferrer, noopener" href="/pages"
+                    ><a class="flex" rel="noreferrer, noopener" href=""
                         ><div class="h-auto w-[56px]" data-projection-id="403">
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"
@@ -155,7 +155,7 @@
                         </div></a
                     ></span
                 ><span data-state="closed" style="width: inherit;"
-                    ><a class="flex" rel="noreferrer, noopener" href="/drive"
+                    ><a class="flex" rel="noreferrer, noopener" href=""
                         ><div class="h-auto w-[56px]" data-projection-id="404">
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"
@@ -368,7 +368,7 @@
                         </div></a
                     ></span
                 ><span data-state="closed" style="width: inherit;"
-                    ><a class="flex" rel="noreferrer, noopener" href="/calendar"
+                    ><a class="flex" rel="noreferrer, noopener" href=""
                         ><div class="h-auto w-[56px]" data-projection-id="405">
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"

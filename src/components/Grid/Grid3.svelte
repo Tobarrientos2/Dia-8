@@ -5,7 +5,7 @@
                 ><h2>
                     Essential apps that protect your&nbsp;<a
                         rel="noopener, noreferrer"
-                        href="/mail"
+                        href=""
                         ><div class="inline-block w-fit">
                             <img
                                 alt="Skiff end-to-end encrypted workspace."
@@ -26,7 +26,7 @@
                                 Email
                             </h2>
                         </div></a
-                    ><a rel="noopener, noreferrer" href="/calendar"
+                    ><a rel="noopener, noreferrer" href=""
                         ><div class="inline-block w-fit">
                             <img
                                 alt="Skiff end-to-end encrypted workspace."
@@ -47,7 +47,7 @@
                                 Events
                             </h2>
                         </div></a
-                    ><a rel="noopener, noreferrer" href="/drive"
+                    ><a rel="noopener, noreferrer" href=""
                         ><div class="inline-block w-fit">
                             <img
                                 alt="Skiff end-to-end encrypted workspace."
@@ -68,7 +68,7 @@
                                 Files
                             </h2>
                         </div></a
-                    ><a rel="noopener, noreferrer" href="/pages"
+                    ><a rel="noopener, noreferrer" href=""
                         ><div class="inline-block w-fit">
                             <img
                                 alt="Skiff end-to-end encrypted workspace."

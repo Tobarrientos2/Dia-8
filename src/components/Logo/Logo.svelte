@@ -1,6 +1,6 @@
- <a rel="noreferrer, noopener" href="/"
+ <a rel="noreferrer, noopener" href=""
         ><div
-          class="mr-2 flex h-9 w-9 items-center justify-center rounded-xl bg-orange-500"
+          class="mr-2 flex h-9 w-9 items-center justify-center rounded-xl "
         >
           <div style="ease:easeOut;duration:0.2px;type:tween;transform:none">
             <svg width="25" height="25" viewBox="0 0 59 51" fill="none" xmlns="http://www.w3.org/2000/svg">

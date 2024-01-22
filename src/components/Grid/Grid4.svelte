@@ -2,7 +2,7 @@
     <a
         class=" skiff-border-raised flex h-[520px] flex-col overflow-hidden col-span-2 skiff-card-hover w-full rounded-xl bg-[#FAFAF9] px-4 pb-0 pt-6 md:px-7 md:pt-7"
         rel="noreferer, noopener"
-        href="/mail"
+        href=""
         ><div class="relative">
             <div
                 class="justify-center-center absolute right-0 mr-[-8px] mt-[-15px] flex aspect-square flex-col items-center rounded-full border p-0.5 md:mr-[-20px] md:mt-[-20px] border-black/[0.08] bg-white"
@@ -2511,7 +2511,7 @@
     ><a
         class=" skiff-border-raised flex h-[520px] flex-col overflow-hidden col-span-2 lg:col-span-1 skiff-card-hover w-full rounded-xl bg-[#FAFAF9] px-4 pb-0 pt-6 md:px-7 md:pt-7"
         rel="noreferer, noopener"
-        href="/pages"
+        href=""
         ><div class="relative">
             <div
                 class="justify-center-center absolute right-0 mr-[-8px] mt-[-15px] flex aspect-square flex-col items-center rounded-full border p-0.5 md:mr-[-20px] md:mt-[-20px] border-black/[0.08] bg-white"
@@ -3061,7 +3061,7 @@
     ><a
         class=" skiff-border-raised flex h-[520px] flex-col overflow-hidden col-span-2 lg:col-span-1 skiff-card-hover w-full rounded-xl bg-[#FAFAF9] px-4 pb-0 pt-6 md:px-7 md:pt-7"
         rel="noreferer, noopener"
-        href="/calendar"
+        href=""
         ><div class="relative">
             <div
                 class="justify-center-center absolute right-0 mr-[-8px] mt-[-15px] flex aspect-square flex-col items-center rounded-full border p-0.5 md:mr-[-20px] md:mt-[-20px] border-black/[0.08] bg-white"
@@ -7717,7 +7717,7 @@
     ><a
         class=" skiff-border-raised flex h-[520px] flex-col overflow-hidden col-span-2 skiff-card-hover w-full rounded-xl bg-[#FAFAF9] px-4 pb-0 pt-6 md:px-7 md:pt-7"
         rel="noreferer, noopener"
-        href="/drive"
+        href=""
         ><div class="relative">
             <div
                 class="justify-center-center absolute right-0 mr-[-8px] mt-[-15px] flex aspect-square flex-col items-center rounded-full border p-0.5 md:mr-[-20px] md:mt-[-20px] border-black/[0.08] bg-white"

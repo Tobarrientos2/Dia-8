@@ -12,11 +12,10 @@
 <svelte:head>
 	<title>{$page.data.page.path || "Inicio"} | </title>
 	<meta content="width=device-width, initial-scale=1" name="viewport" />
-  <link rel="icon" href="../../src/../static/favicon3.png?v=2" />
+  <link rel="icon" href="" />
 </svelte:head>
 
 <Header />
-
+<Container1></Container1>
 <slot />
-
 <Footer />

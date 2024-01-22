@@ -48,7 +48,7 @@
             <div style="opacity: 1;">
                 <a
                     rel="noreferrer, noopener"
-                    href="/blog/is-protonmail-hipaa-compliant"
+                    href=""
                     ><div
                         class="skiff-card-hover group flex duration-100 ease-out flex-col gap-4"
                         style="width: 350px;"
@@ -89,7 +89,7 @@
             <div style="opacity: 1;">
                 <a
                     rel="noreferrer, noopener"
-                    href="/blog/how-to-block-emails-on-yahoo"
+                    href=""
                     ><div
                         class="skiff-card-hover group flex duration-100 ease-out flex-col gap-4"
                         style="width: 350px;"
@@ -131,7 +131,7 @@
             <div style="opacity: 1;">
                 <a
                     rel="noreferrer, noopener"
-                    href="/blog/how-to-find-unread-emails-in-gmail"
+                    href=""
                     ><div
                         class="skiff-card-hover group flex duration-100 ease-out flex-col gap-4"
                         style="width: 350px;"
@@ -171,7 +171,7 @@
                 >
             </div>
             <div style="opacity: 1;">
-                <a rel="noreferrer, noopener" href="/blog/protonmail-pricing"
+                <a rel="noreferrer, noopener" href=""
                     ><div
                         class="skiff-card-hover group flex duration-100 ease-out flex-col gap-4"
                         style="width: 350px;"
@@ -212,7 +212,7 @@
             <div style="opacity: 0.3;">
                 <a
                     rel="noreferrer, noopener"
-                    href="/blog/full-pgp-support-in-skiff"
+                    href=""
                     ><div
                         class="skiff-card-hover group flex duration-100 ease-out flex-col gap-4"
                         style="width: 350px;"
@@ -250,7 +250,7 @@
                 >
             </div>
             <div style="opacity: 0.3;">
-                <a rel="noreferrer, noopener" href="/blog/who-uses-protonmail"
+                <a rel="noreferrer, noopener" href=""
                     ><div
                         class="skiff-card-hover group flex duration-100 ease-out flex-col gap-4"
                         style="width: 350px;"
@@ -290,7 +290,7 @@
                 >
             </div>
             <div style="opacity: 0.3;">
-                <a rel="noreferrer, noopener" href="/blog/protonmail-review"
+                <a rel="noreferrer, noopener" href=""
                     ><div
                         class="skiff-card-hover group flex duration-100 ease-out flex-col gap-4"
                         style="width: 350px;"
@@ -332,7 +332,7 @@
             <div style="opacity: 0.3;">
                 <a
                     rel="noreferrer, noopener"
-                    href="/blog/how-to-create-a-folder-in-outlook"
+                    href=""
                     ><div
                         class="skiff-card-hover group flex duration-100 ease-out flex-col gap-4"
                         style="width: 350px;"
@@ -372,7 +372,7 @@
                 >
             </div>
             <div style="opacity: 0.3;">
-                <a rel="noreferrer, noopener" href="/blog/how-to-stop-junk-mail"
+                <a rel="noreferrer, noopener" href=""
                     ><div
                         class="skiff-card-hover group flex duration-100 ease-out flex-col gap-4"
                         style="width: 350px;"
@@ -413,7 +413,7 @@
             <div style="opacity: 0.3;">
                 <a
                     rel="noreferrer, noopener"
-                    href="/blog/how-to-find-archived-emails-in-gmail"
+                    href=""
                     ><div
                         class="skiff-card-hover group flex duration-100 ease-out flex-col gap-4"
                         style="width: 350px;"

@@ -7,7 +7,7 @@
         class="outline-blue-400 focus:border-blue-400 focus:ring-blue-400"
         rel="noreferrer, noopener"
         target=""
-        href="/mail"
+        href=""
         ><span
             class="font-sans text-base font-normal text-gray-800 hover:opacity-80"
             data-svelte-h="svelte-1gbpjlp">Mail</span

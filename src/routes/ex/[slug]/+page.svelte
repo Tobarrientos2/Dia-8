@@ -1543,7 +1543,7 @@ processDt2(ex_dt2);
                                                        fill="#ffffff"
                                                        opacity="0"
                                                    /><use
-                                                       xlink:href="#__lottie_element_165"
+                                                       xlink:href=""
                                                    /></g
                                                ></mask
                                            ></defs
@@ -2140,7 +2140,7 @@ processDt2(ex_dt2);
                </p>
                <a
                    data-w-id="851f59a6-41d7-9a45-3e37-0c9af8ef7137"
-                   href="/"
+                   href=""
                    class="cms-card-button outline-white w-inline-block"
                    style="width: 40px;"
                    ><div

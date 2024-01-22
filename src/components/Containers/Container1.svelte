@@ -1,4 +1,10 @@
+<script>
+    import { getService } from "../../stores/scStore";
 
+    let iABServices_arr = getService().iABServices_arr;
+
+
+</script>
 
 
 <div class="flex flex-col items-center justify-center bg-[#F5F5F4]">
@@ -9,7 +15,7 @@
                     class="font-pixel hidden w-full items-start justify-between px-12 pt-9 text-[80px] lg:flex"
                 >
                     <span class="body-small font-mono uppercase text-white"
-                        >SKIFF MAIL</span
+                        ></span
                     ><span
                         class="body-medium font-pixel text-[76px] leading-[54px] text-white"
                         >01</span
@@ -19,41 +25,27 @@
         </div>
         <div
             class="page-end-rounded flex max-h-[95vh] w-full flex-col gap-5 px-6 pt-32 md:px-12"
-            style="background: linear-gradient(rgb(81, 196, 254) 0%, rgb(49, 175, 238) 100%);"
+            style="background:black"
         >
             <div
                 class="mb-4 flex w-full flex-col items-start justify-between gap-y-6 lg:flex-row"
             >
                 <h1 class="max-w-[700px] text-white leading-[120%]">
-                    Private, End-to-End Encrypted&nbsp;
+                    {iABServices_arr[0].sc_1}
                     <div class="inline-block w-fit">
                         <div class="mr-2 inline-block">
                             <div
                                 class="relative h-[36px] w-[36px] md:h-[50px] md:w-[50px] lg:h-[54px] lg:w-[54px]"
                             >
-                                <img
-                                    alt="https://cdn.sanity.io/images/sdd9dua4/production/9ec6bdfc1870ae942f24644f5115cfe5bf9cfa80-260x258.svg?fit=max&amp;auto=format"
-                                    sizes="100vw"
-                                    srcset="https://cdn.sanity.io/images/sdd9dua4/production/9ec6bdfc1870ae942f24644f5115cfe5bf9cfa80-260x258.svg?fit=max&amp;auto=format 640w, https://cdn.sanity.io/images/sdd9dua4/production/9ec6bdfc1870ae942f24644f5115cfe5bf9cfa80-260x258.svg?fit=max&amp;auto=format 750w, https://cdn.sanity.io/images/sdd9dua4/production/9ec6bdfc1870ae942f24644f5115cfe5bf9cfa80-260x258.svg?fit=max&amp;auto=format 828w, https://cdn.sanity.io/images/sdd9dua4/production/9ec6bdfc1870ae942f24644f5115cfe5bf9cfa80-260x258.svg?fit=max&amp;auto=format 1080w, https://cdn.sanity.io/images/sdd9dua4/production/9ec6bdfc1870ae942f24644f5115cfe5bf9cfa80-260x258.svg?fit=max&amp;auto=format 1200w, https://cdn.sanity.io/images/sdd9dua4/production/9ec6bdfc1870ae942f24644f5115cfe5bf9cfa80-260x258.svg?fit=max&amp;auto=format 1920w, https://cdn.sanity.io/images/sdd9dua4/production/9ec6bdfc1870ae942f24644f5115cfe5bf9cfa80-260x258.svg?fit=max&amp;auto=format 2048w, https://cdn.sanity.io/images/sdd9dua4/production/9ec6bdfc1870ae942f24644f5115cfe5bf9cfa80-260x258.svg?fit=max&amp;auto=format 3840w"
-                                    src="https://cdn.sanity.io/images/sdd9dua4/production/9ec6bdfc1870ae942f24644f5115cfe5bf9cfa80-260x258.svg?fit=max&amp;auto=format"
-                                    decoding="async"
-                                    data-nimg="fill"
-                                    class="mt-1 inline-block rounded-[10px] border-2 border-white md:rounded-[13px] lg:rounded-[14px]"
-                                    loading="lazy"
-                                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"
-                                />
+                               
                             </div>
                         </div>
-                        <span class="mr-6 inline-block capitalize text-white"
-                            >mail</span
-                        >
+                        
                     </div>
                 </h1>
                 <div class="flex flex-col gap-y-4">
                     <span class="body-medium max-w-[549px] text-white"
-                        >Skiff Mail protects your inbox by keeping your messages
-                        end-to-end encrypted. That means that no one but you has
-                        access to your data.</span
+                        >{iABServices_arr[0].sc_2}</span
                     >
                     <div class="flex flex-row gap-3">
                         <button
@@ -62,7 +54,7 @@
                             style="background: white; border-color: rgba(0, 0, 0, 0.08);"
                             ><span
                                 class="body-medium font-sans !font-medium"
-                                style="color: black;">Start for free</span
+                                style="color: black;">Ver más</span
                             ></button
                         >
                     </div>
@@ -131,7 +123,7 @@
                                 </div>
                                 <div class="flex flex-col">
                                     <span class="body-small font-small"
-                                        >Skiff Mail</span
+                                        ></span
                                     ><span class="caption text-gray-600"
                                         >Nightwatch</span
                                     >

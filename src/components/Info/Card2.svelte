@@ -2,7 +2,7 @@
     rel="noreferer, noopener"
     class=" skiff-card-hover flex flex-col col-span-1 card w-full rounded bg-gray-800 p-7 pb-0"
     target="_blank"
-    href="https://github.com/skiff-org/skiff-ui"
+    href=""
     ><div class="card-content overflow-hidden">
         <div class="relative right-2 top-2">
             <div
